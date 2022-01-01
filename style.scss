@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(50,50,50);
+    color:white;
+
+
+}
+
+
+#game{
+    width:fit-content;
+    margin:auto;
+    text-align:center;
+
+    #output{
+        margin-top:10px;
+        border:1px solid white;
+        width:300px;
+        height:200px;
+    }
+}
+
